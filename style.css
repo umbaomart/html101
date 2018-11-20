@@ -1,0 +1,51 @@
+body {
+  background: orange;
+  font-family: Arial;
+}
+
+.headings {
+  color: white;
+}
+
+.headings, p{
+  text-align: center;
+}
+
+.container {
+  margin: auto;
+  border: 5px solid black;
+  text-align: center;
+}
+
+ul {
+  list-style-type: circle;
+}
+
+ol {
+  list-style-type: lower-alpha;
+}
+
+.box {
+  border: 5px solid orangered;
+  height: 400px;
+  width: 400px;
+  margin: 0 auto;
+}
+
+img {
+  border: 2px solid white;
+  border-radius: 50%;
+  text-align: center;
+}
+
+#middle {
+  height: 150px;
+  width: 150px;
+}
+
+.images {
+  margin: 0 auto;
+  background: #000;
+  height: 200px;
+  width: 615px;
+}
